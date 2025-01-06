@@ -46,7 +46,7 @@ export default class FormRegistroDePasajes{
         this.getSelectTramos().setAttribute('id','tramos')
     }
     añadirEventoClickAlSelectDeDirecciones(){
-        this.selectDirecciones.addEventListener('click', ()=>{
+        this.selectDirecciones.addEventListener('change', ()=>{
             this.cargarInformacionAlSelectTramos(this.getSelectDirecciones().selectedIndex)
         })
     }
