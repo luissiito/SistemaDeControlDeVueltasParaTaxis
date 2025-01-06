@@ -1,0 +1,13 @@
+$small:'500px';
+
+form{
+  label{
+    font-size: 1.2em;
+    margin: 0;
+    text-align: center;
+  }
+    @media screen and (max-width: $small) {
+        display: grid;
+        grid-template-columns: repeat(1, 100%);
+      }
+}

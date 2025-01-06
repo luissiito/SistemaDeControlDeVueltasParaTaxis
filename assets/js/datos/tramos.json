@@ -1,0 +1,22 @@
+[
+    {
+        "tramosBajadas":[
+            {"id":"00","nombre":"Juan Pablo II -- Pudeto","precio":"1000"},
+            {"id":"01","nombre":"Juan Pablo II -- Paradero 9","precio":"600"},
+            {"id":"02","nombre":"Juan Pablo II -- Acuenta","precio":"500"},
+            {"id":"03","nombre":"Lomas/Triwe -- Pudeto","precio":"900"},
+            {"id":"04","nombre":"Lomas/Triwe -- Paradero 9","precio":"500"},
+            {"id":"05","nombre":"Local Plan","precio":"600"}
+        ],
+        "tramosSubidas":[
+            {"id":"10","nombre":"Pudeto -- Juan Pablo II","precio":"1000"},
+            {"id":"11","nombre":"Paradero 9 -- Juan Pablo II","precio":"600"},
+            {"id":"12","nombre":"Acuenta -- Juan Pablo II","precio":"500"},
+            {"id":"13","nombre":"Pudeto -- Lomas/Triwe","precio":"900"},
+            {"id":"14","nombre":"Paradero 9 -- Lomas/Triwe","precio":"500"},
+            {"id":"15","nombre":"Local Plan","precio":"600"},
+            {"id":"16","nombre":"Pasaje Quillota -- Lomas/Triwe","precio":"700"},
+            {"id":"17","nombre":"Pasaje Quillota -- Juan Pablo II","precio":"800"}
+        ]
+    }
+]

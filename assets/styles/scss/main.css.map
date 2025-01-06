@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AACE,IADE,CACF,KAAK,CAAA;EACH,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,MAAM;CACnB;;AACC,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EANvC,AAAA,IAAI,CAAA;IAOI,OAAO,EAAE,IAAI;IACb,qBAAqB,EAAE,eAAe;GAE7C;;;ADVD,AAAA,CAAC,CAAC;EACE,SAAS,EAAE,GAAG;EACd,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "main.scss",
+        "FormRegistroDePasajes.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

@@ -1,0 +1,15 @@
+form label {
+  font-size: 1.2em;
+  margin: 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+  form {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (100%)[1];
+        grid-template-columns: repeat(1, 100%);
+  }
+}
+/*# sourceMappingURL=FormRegistroDePasajes.css.map */
